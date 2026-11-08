@@ -37,4 +37,4 @@ docker compose up -d --build
 
 ## Контакт
 
-Telegram: @OEShevchenko
+Telegram: [@OEShevchenko](https://t.me/OEShevchenko)
