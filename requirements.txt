@@ -1,0 +1,4 @@
+aiogram==3.31.0
+aiohttp==3.13.3
+maxapi==1.2.2
+python-dotenv==1.2.2
